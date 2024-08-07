@@ -6,7 +6,7 @@ This repository contains a script for automating CI/CD processes for multiple pr
 
 ```
 CICD/
-├── auto_deploy.log
+├── auto_deploy.log [will be created automatically]
 ├── auto_deploy.sh
 └── services.json
 ```
